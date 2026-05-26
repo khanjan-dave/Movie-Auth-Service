@@ -129,3 +129,4 @@
 /Users/khanjandave/Desktop/Movie-Auth-Service/Movie-Auth-Service/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /Users/khanjandave/Desktop/Movie-Auth-Service/Movie-Auth-Service/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /Users/khanjandave/Desktop/Movie-Auth-Service/Movie-Auth-Service/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/khanjandave/Desktop/Movie-Auth-Service/Movie-Auth-Service/obj/Debug/net10.0/Movie-Auth-Service.sourcelink.json

@@ -1,0 +1,23 @@
+# Build outputs
+bin/
+obj/
+
+# Environment variables - NEVER commit
+.env
+
+# App settings with sensitive data
+appsettings.json
+appsettings.Development.json
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Rider/VS
+.vs/
+*.user
+
+# Logs
+*.log

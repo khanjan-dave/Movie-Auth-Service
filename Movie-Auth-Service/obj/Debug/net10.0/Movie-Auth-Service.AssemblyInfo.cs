@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Movie-Auth-Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f380de6567cc856a1ab1d4a6f18295b7c87cfb33")]
 [assembly: System.Reflection.AssemblyProductAttribute("Movie-Auth-Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Movie-Auth-Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
